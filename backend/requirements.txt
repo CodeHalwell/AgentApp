@@ -1,0 +1,8 @@
+# Microsoft Agent Framework would go here when available
+# azure-agents>=0.1.0  
+# For this exercise, we implement agent patterns directly
+
+pydantic==2.9.0
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.22

@@ -40,3 +40,6 @@ next-env.d.ts
 *.swp
 *.swo
 *~
+node_modules/
+.next/
+package-lock.json

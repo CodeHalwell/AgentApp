@@ -1,0 +1,24 @@
+RECEIPT
+
+ABC Electronics Store
+456 Shopping Plaza
+City, State 54321
+
+Date: 01/15/2024
+Time: 14:32:45
+Receipt #: 789456
+
+Items Purchased:
+- USB Cable (2x)        $19.98
+- Phone Case            $24.99
+- Screen Protector      $12.99
+
+Subtotal:               $57.96
+Tax (7%):               $4.06
+Total:                  $62.02
+
+Payment Method: Credit Card
+Card: **** **** **** 1234
+
+Thank you for shopping with us!
+Return policy: 30 days with receipt

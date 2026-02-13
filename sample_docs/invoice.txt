@@ -1,0 +1,23 @@
+INVOICE #INV-2024-001
+
+Date: January 15, 2024
+Invoice Number: INV-2024-001
+
+Bill To:
+John Smith
+123 Main Street
+Anytown, ST 12345
+
+Items:
+- Software Development Services: $2,500.00
+- Consulting Hours (20 hrs @ $150/hr): $3,000.00
+- Project Management: $1,500.00
+
+Subtotal: $7,000.00
+Tax (8%): $560.00
+Total Due: $7,560.00
+
+Payment Terms: Net 30 days
+Due Date: February 15, 2024
+
+Thank you for your business!
